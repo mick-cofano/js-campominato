@@ -37,3 +37,6 @@ function genNumeri(n, min, max) {
 
 var numeriComputer = genNumeri(16, 1, 100);
 console.log(numeriComputer);
+
+// richiesta numero da 1 a 100 all'utente
+var numero_utente = parseInt(prompt('inserisci un numero tra 1 e 100'));
